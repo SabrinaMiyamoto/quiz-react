@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Quiz de front-end com Vite e React</p>
+<h1 align="center"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Quiz de Programação</h1>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :books: Funcionalidades
+*  O que essa funcionalidade faz?
+Um jogo de perguntas e respostas de front-end. 
+
+## :wrench: Tecnologias utilizadas
+*ReactJs <br/>
+*Vite
+
+## :rocket: Rodando o projeto
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+```
+NPM i package.json
+npm run dev
+```
+
+## :soon: Implementação futura
+* Inserir um Banco de Dados e tela de login.
