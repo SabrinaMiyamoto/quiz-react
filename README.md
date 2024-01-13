@@ -1,5 +1,4 @@
 
-<p>Quiz de front-end com Vite e React</p>
 <h1 align="center"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Quiz de Programação</h1>
 
 
